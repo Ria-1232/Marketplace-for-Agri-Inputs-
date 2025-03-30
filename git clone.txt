@@ -1,0 +1,2 @@
+git clone https://github.com/yourusername/marketplace-for-agri-inputs.git
+cd marketplace-for-agri-inputs

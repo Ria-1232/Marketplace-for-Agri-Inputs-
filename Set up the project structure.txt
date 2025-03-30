@@ -1,0 +1,13 @@
+/frontend
+  /public
+  /src
+    /components
+    /App.js
+    /index.js
+  package.json
+
+/backend
+  /models
+  /controllers
+  /routes
+  server.js
